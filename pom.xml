@@ -17,14 +17,12 @@
 	</organization>
 
 	<properties>
-		<jdk.version>17</jdk.version>
-		<spring.version>17RELEASE</spring.version>
-		<properties>
+    <jdk.version>17</jdk.version>
+    <spring.version>17RELEASE</spring.version>
+
     <sonar.projectKey>my-web-app</sonar.projectKey>
     <sonar.projectName>My Web Application</sonar.projectName>
-    <sonar.host.url>http://http://3.111.39.180:9000</sonar.host.url>
-</properties>
-
+    <sonar.host.url>http://3.111.39.180:9000</sonar.host.url>
 	</properties>
 
 	<dependencies>
